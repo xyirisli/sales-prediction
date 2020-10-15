@@ -1,4 +1,4 @@
-This project is for the Kaggle competition "Predict Future Sales" https://www.kaggle.com/c/competitive-data-science-predict-future-sales. 
+This project is for the Kaggle competition "Predict Future Sales"  https://www.kaggle.com/c/competitive-data-science-predict-future-sales. 
 
 The sales dataset includes daily historical data (time series data) from January 2013 to October 2015. We are asked to predict the total sales for every product and store 
 in the next month i.e. November 2015. 
