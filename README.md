@@ -14,7 +14,7 @@ There are three stages in my project:
 - Outlier analysis
 - Item category analysis
 
-3. Model training
+3. Model creation and training
 
  
 
